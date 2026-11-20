@@ -17,6 +17,7 @@ pub mod policy;
 pub mod prusalink;
 pub mod recording;
 pub mod redact;
+pub mod region;
 pub mod replies;
 pub mod session;
 pub mod storage;
